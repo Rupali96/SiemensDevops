@@ -20,7 +20,7 @@
 	<distributionManagement>
 		<repository>
 			<id>hosted</id>
-			<url>https://localhost:8443/repository/siemensHosted/</url>`	
+			<url>http://localhost:8081/repository/siemensHosted/</url>`	
 		</repository>
 	</distributionManagement>
 	<repositories>
