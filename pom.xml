@@ -17,7 +17,12 @@
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
-	
+	<distributionManagement>
+		<repository>
+			<id>hosted</id>
+			<url>https://localhost:8443/repository/siemensHosted/</url>`	
+		</repository>
+	</distributionManagement>
 	<repositories>
 		<repository>
 			<id>siemensIntraRepo</id>
